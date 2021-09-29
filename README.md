@@ -22,6 +22,9 @@ Simple and easy to understand guide to learn Golang. This book will teach you Go
 <img src=./imgs/book.jpeg width=40%>
 
 
+
+
+
 **You can find this book here:**
 
 - **Kindle Edition**
@@ -36,5 +39,11 @@ Simple and easy to understand guide to learn Golang. This book will teach you Go
   - [eBook](http://bit.ly/3rl7VcC)
   - [Print](https://bit.ly/3rli0Gq)
 
+
+"Hands-on Go Programming" was named one of the best new Data Structures books by BookAuthority!
+
+<img src=./imgs/winner.png width=40%>
+
+[Read full article here](https://bookauthority.org/books/new-data-structures-books?t=6hf1rv&s=award&book=9389898196)
 
 <!-- ![](./imgs/book.jpeg) -->
